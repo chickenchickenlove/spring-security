@@ -7,3 +7,8 @@
 + (정리) Spring Security를 활성화 했을 때 내용(https://ojt90902.tistory.com/807)
 + (정리) Spring Security 사용자 정의 보안 기능 시작(https://ojt90902.tistory.com/808)
 + (정리) Spring Security Login API 및 필터 (https://ojt90902.tistory.com/809)
+
+
+## 22.03.28
++ (강의) 익명사용자 인증 필터 : AnonymousAuthenticationFilter
++ (강의) 동시 세션 제어, 세션 고정 보호, 세션 정책
