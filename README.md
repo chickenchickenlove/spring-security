@@ -23,3 +23,6 @@
 
 ## 22.04.05
 + (강의) 동시 세션 제어, 세션 고정 보호, 세션 정책, 세션 제어 필터(SessionManagementFilter / ConcurrentSessionFilter) / 사이트간 요청 위조 (CSRF, CsrfFilter)
+
+## 22.04.06
++ (강의) Spring Security : ExceptionTranslationFilter / RequestCacheAwareFilter
