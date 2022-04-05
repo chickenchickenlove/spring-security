@@ -20,3 +20,6 @@
 
 ## 22.04.04
 + (정리) 스프링 시큐리티의 Remember Me 기능 / 필터 / 구조 공부 (https://ojt90902.tistory.com/816)
+
+## 22.04.05
++ (강의) 동시 세션 제어, 세션 고정 보호, 세션 정책, 세션 제어 필터(SessionManagementFilter / ConcurrentSessionFilter) / 사이트간 요청 위조 (CSRF, CsrfFilter)
