@@ -28,3 +28,4 @@
 + (강의) Spring Security : ExceptionTranslationFilter / RequestCacheAwareFilter
 + (강의) Spring Security : 위임 필터 및 및 필터 빈 초기화 - DelegatingProxyChain, FilterChainProxy
 + (강의) Spring Security : 필터 초기화와 다중 보안 설정. 
++ (강의) Spring Security : 인증 개념 이해 - Authentication
