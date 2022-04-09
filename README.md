@@ -44,4 +44,5 @@
 + (강의) Spring Security : 스프링 시큐리티 필터 및 아키텍처 정리
 + (강의) Spring Security : 실전 프로젝트 생성
 + (강의) Spring Securiyt : 정적 자원 관리 - Web Ignore 생성 
++ (정리) Spring Securiyt : 스프링 계정 생성 + 권한 설정 + 인증 / 인가 정보 설정 (https://ojt90902.tistory.com/844)
 
