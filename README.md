@@ -46,4 +46,7 @@
 + (강의) Spring Security : 정적 자원 관리 - Web Ignore 생성 
 + (정리) Spring Security : 스프링 계정 생성 + 권한 설정 + 인증 / 인가 정보 설정 (https://ojt90902.tistory.com/844)
 + (정리) Spring Security : Web Ignore 설정 (https://ojt90902.tistory.com/843)
++ (정리) Spring Security : 동시 세션 제어 (https://ojt90902.tistory.com/824)
++ (정리) Spring Security : 세션 고정 보호 (https://ojt90902.tistory.com/825)
++ (정리) Spring Security : 세션 정책 설정 (https://ojt90902.tistory.com/827)
 
