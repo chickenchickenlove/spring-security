@@ -39,3 +39,7 @@
 ## 22.04.08
 + (강의) Spring Security : 인가 개념 및 필터 이해 : Authorization, FilterSecurityInterceptor
 + (강의) Spring Security : 인가 결정 심의자 - AccessDecisionManager, AccessDecisionVoter
+
+## 22.04.09
++ (강의) Spring Security : 스프링 시큐리티 필터 및 아키텍처 정리
+
