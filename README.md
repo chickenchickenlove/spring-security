@@ -50,4 +50,5 @@
 + (정리) Spring Security : 세션 고정 보호 (https://ojt90902.tistory.com/825)
 + (정리) Spring Security : 세션 정책 설정 (https://ojt90902.tistory.com/827)
 + (정리) Spring Security : SessionManagementFilter / ConcurrentSessionFilter (https://ojt90902.tistory.com/828)
++ (정리) Spring Security : 선언적 권한 설정과 표현식 (https://ojt90902.tistory.com/829)
 
