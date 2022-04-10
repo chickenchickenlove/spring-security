@@ -53,3 +53,5 @@
 + (정리) Spring Security : 선언적 권한 설정과 표현식 (https://ojt90902.tistory.com/829)
 + (정리) Spring Security : CSRF / CSRF Filter (https://ojt90902.tistory.com/830)
 
+## 22.04.10
++ (강의) Spring Security : 스프링 시큐리티 아키텍쳐DelegatingProxyFilter / FilterChainProxy(https://ojt90902.tistory.com/832)
