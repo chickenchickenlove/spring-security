@@ -55,3 +55,6 @@
 
 ## 22.04.10
 + (강의) Spring Security : 스프링 시큐리티 아키텍쳐DelegatingProxyFilter / FilterChainProxy(https://ojt90902.tistory.com/832)
+
+## 22.04.12
++ (정리) Spring Security : 스프링 시큐리티 다중 보안 설정 클래스 사용 시 동작 방식(https://ojt90902.tistory.com/833)
