@@ -62,3 +62,7 @@
 ## 22.05.12
 + (강의) Spring Security : 정적 자원 관리 @ WebIgnore
 + (강의) Spring Security : 사용자 DB 등록 및 PasswordEncoder / DB 연동 인증처리 
+
+## 22.05.14
++ (강의) Spring Security : 커스텀 로그인 페이지 생성하기
++ (강의) Spring Security : 로그아웃 및 인증에 따른 
