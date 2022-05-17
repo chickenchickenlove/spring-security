@@ -69,3 +69,6 @@
 
 ## 22.05.16
 + (정리) Spring Security : Processing Filter / Auth. Filter / ProviderManager / Auth. Provider / UserDetails / UserDetailService / SuccessHandler / FailureHandler / DeniedHandler 내부 흐름 확인 및 사용자 정의 클래스 구현 
+
+## 22.05.17
++ (정리) Spring Security : FilterSecurityInterceptor 인가 관련 구조 확인. 
