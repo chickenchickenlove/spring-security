@@ -76,3 +76,6 @@
 ## 22.05.18
 + (정리) Spring Security : FilterSecurityInterceptor 인가 관련 구조 추가 확인
 + (정리) Spring Security : MetaSourceData를 구현해서 DB와 권한 연동하기
+
+## 22.05.19
++ (정리) Spring Security : FilterSecurityInterceptor를 응용한 PermitAllFilter 구현
