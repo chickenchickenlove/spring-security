@@ -79,3 +79,6 @@
 
 ## 22.05.19
 + (정리) Spring Security : FilterSecurityInterceptor를 응용한 PermitAllFilter 구현
+
+## 22.05.27
++ (정리) Spring Security : 계층구조형 권한 
